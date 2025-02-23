@@ -1,4 +1,4 @@
-# Simple Java Quiz Application
+# Simple Java Quiz Application (Console Based)
 
 ## Overview
 This project is a basic **console-based quiz application** developed in **Java**. It allows users to answer multiple-choice questions and then calculates their score. The program follows an **object-oriented approach**, organizing questions into objects and handling user interactions.
