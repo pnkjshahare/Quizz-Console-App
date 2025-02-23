@@ -51,7 +51,7 @@ Question : President of India ?
 option 1 : Amit shah
 option 2 : Narendra Modi
 option 3 : Nitin gadakari
-option 4 : Dropati Muramu
+option 4 : Droupati Murmu
 >> Dropati Muramu   (User input)
 
 ...
